@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javadoc.practicar","c":"IvanRojanoAnguita","l":"esMayorDeEdad(int, String)","u":"esMayorDeEdad(int,java.lang.String)"},{"p":"javadoc.practicar","c":"IvanRojanoAnguita","l":"IvanRojanoAnguita()","u":"%3Cinit%3E()"},{"p":"javadoc.practicar","c":"IvanRojanoAnguita","l":"numeroAleatorio(int, int)","u":"numeroAleatorio(int,int)"}];updateSearchResults();
